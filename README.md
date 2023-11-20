@@ -22,5 +22,3 @@ The analysis will involve deploying analytical techniques to address the followi
 2. How long until a placement can be expected?
 
 The focus will be on understanding the thought process behind the analytical techniques used and translating the findings into actionable recommendations for the company.
-
-## Usage
